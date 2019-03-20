@@ -111,3 +111,6 @@
 ### Q: What is a Hash Table?
 - A hash table is used when you need to access elements by using key, and you can identify a useful key value. Each item in the hash table has a key/value pair. The key is used to access the items in the collection.
 
+### SOURCES
+- https://www.tutorialspoint.com/csharp/index.htm
+- https://docs.microsoft.com/en-us/dotnet/csharp/index
